@@ -3,7 +3,7 @@ package:
   description: Prisms, traversals, and zipper for the Argonaut `Json` type.
   publish:
     license: MIT
-    version: 10.0.0
+    version: 11.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-argonaut-traversals
